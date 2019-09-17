@@ -1,17 +1,10 @@
 # MATLAB-Implementation-Artificial-Intelligence-Course
-This repository contains the MATLAB implementation of Sparse Autoencoder, Vectorization, and Softmax Regression Exercises on [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+This repository contains the MATLAB implementation of Sparse Autoencoder with Vectorization, and Softmax Regression Exercises on [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
-## Sparse Autoencoder
-[Link to Sparse Autoencoder Exercise], 
+## Sparse Autoencoder with Vectorization
 
-Code can be seen [here].
-
-## Vectorization
-[Link to Vectorization Exercise] 
-
-Code can be seen [here].
+Implementation can be seen [here](./sparse_autoencoder_with_vectorization/).
 
 ## Softmax Regression
-[Link to Softmax Regression Exercise] 
 
-Code can be seen [here].
+Implementation can be seen [here](./softmax_exercise/).
