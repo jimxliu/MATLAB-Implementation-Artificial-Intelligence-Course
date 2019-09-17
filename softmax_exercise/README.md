@@ -7,7 +7,7 @@ The purpose of this exercise is to use softmax regression to classify MNIST imag
 To execute the code, run [softmaxExercise.m](./softmaxExercise.m), which does the following steps:
 0. Initialise constants and parameters
 1. Load data
-2. Implement softmaxCost
+2. Execute softmaxCost
 3. Gradient checking
 4. Learning parameters
 5. Testing
